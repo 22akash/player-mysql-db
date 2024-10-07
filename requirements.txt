@@ -1,0 +1,7 @@
+Flask
+Flask-PyMongo
+Flask-SQLAlchemy
+Flask-Smorest
+marshmallow
+python-dotenv
+Flask-cors
